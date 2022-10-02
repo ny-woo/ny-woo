@@ -4,7 +4,7 @@
 
 ### 🌱🌱 I’m currently learning
 
-- Platform Engineering
+- platform engineering
 
 ### ⚡⚡ Contact
 
