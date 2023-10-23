@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Nayoung 
 
-- versatile developer
+- software developer
 
 ### 🌱 I’m currently learning
 
