@@ -1,12 +1,12 @@
-### 👋👋 Hi, I'm Nayoung 
+### 👋 Hi, I'm Nayoung 
 
 - versatile developer
 
-### 🌱🌱 I’m currently learning
+### 🌱 I’m currently learning
 
 - platform engineering
 
-### ⚡⚡ Contact
+### ⚡ Contact
 
 - [![Blog Badge](https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white&link=https://developer-ny.tistory.com)](https://developer-ny.tistory.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skdud@ajou.ac.kr)](mailto:skdud@ajou.ac.kr)
